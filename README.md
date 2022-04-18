@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about the weather
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Python is just ![image](https://user-images.githubusercontent.com/93292861/163886550-88d4dfe1-3ba8-4e58-88cd-60a89045481f.png)
+- ⚡ Fun fact: Python is just 🤌
 
 -->
